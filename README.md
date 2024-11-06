@@ -4,6 +4,15 @@
 
 I will pick 5 number and 5 string modifiers questions to do. Each will have their own js file with a name according to what it is.
 
+## Number Modifications
+
+1. Increment, Decrement. Inside IncrementDecrement.js
+2. Converted to String. Inside convertToString.js
+
+## String Modifications
+
+1.
+
 ## Attributions
 
 (MDN DOCS)[https://developer.mozilla.org/en-US/]

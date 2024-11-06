@@ -6,8 +6,9 @@ I will pick 5 number and 5 string modifiers questions to do. Each will have thei
 
 ## Number Modifications
 
-1. Increment, Decrement. Inside IncrementDecrement.js
+1. Incrementing a number. Inside increment.js
 2. Converted to String. Inside convertToString.js
+3.
 
 ## String Modifications
 

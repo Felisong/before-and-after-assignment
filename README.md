@@ -6,7 +6,7 @@ I will pick 5 number and 5 string modifiers questions to do. Each will have thei
 
 ## Number Modifications
 
-1. Incrementing a number. Inside increment.js
+1. Incrementing and decrementing a number. Each inside their respective, increment.js and decrement.js.
 2. Converted to String. Inside convertToString.js
 3.
 
@@ -16,6 +16,6 @@ I will pick 5 number and 5 string modifiers questions to do. Each will have thei
 
 ## Attributions
 
-(MDN DOCS)[https://developer.mozilla.org/en-US/]
+[MDN DOCS](https://developer.mozilla.org/en-US/)
 
 [StackOverFlow Forum](https://stackoverflow.com/questions/40528646/increment-in-for-loop-javascript)

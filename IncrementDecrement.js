@@ -12,7 +12,6 @@ function test() {
     num = num + 1;
     console.log(`After: ${num}`);
   }
-  return num;
 }
 
 test();

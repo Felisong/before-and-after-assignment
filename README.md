@@ -21,19 +21,19 @@ Interested in my github? [my Github Profile](https://github.com/Felisong/before-
 
 You can find it in number mods folder.
 
-1. Incrementing and decrementing a number. Each inside their respective, numIncrement.js and numDecrement.js.
-2. Converted to String. Inside numConvertToString.js
-3. Floating Point Precision. Inside numFloatingPointPrecision.js
-4. Check if Integer. Inside numCheckIfInteger.js
-5. Check if Not a Number. Inside numCheckNaN.js
+1. Incrementing and decrementing a number. Each inside their respective, Increment.js and Decrement.js.
+2. Converted to String. Inside ConvertToString.js
+3. Floating Point Precision. Inside FloatingPointPrecision.js
+4. Check if Integer. Inside heckIfInteger.js
+5. Check if Not a Number. Inside CheckNaN.js
 
 ### List of Methods in number modifications
 
 - Number.isInteger()
-  provided if the number inside is an integer.
+  provides True or False if the number inside is an integer.
 
 - isNaN()
-  Provided if the number is not a number
+  Provided true or false if the number is not a number
 
 - toString()
   converted the data type to a string type.

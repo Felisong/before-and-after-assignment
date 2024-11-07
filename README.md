@@ -6,9 +6,9 @@ I will pick 5 number and 5 string modifiers questions to do. Each will have thei
 
 ## Number Modifications
 
-1. Incrementing and decrementing a number. Each inside their respective, increment.js and decrement.js.
-2. Converted to String. Inside convertToString.js
-3.
+1. Incrementing and decrementing a number. Each inside their respective, numIncrement.js and numDecrement.js.
+2. Converted to String. Inside numConvertToString.js
+3. Floating Point Precision. Inside numFloatingPointPrecision.js
 
 ## String Modifications
 

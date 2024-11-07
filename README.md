@@ -32,17 +32,28 @@ You can find it in number mods folder.
 
 They can be found in the string mods folder.
 
-1.
+1. Checking how a string starts and if it matches. Provides a true or false. Inside checkStart.js
+2. Extracting a substring from a string. Inside extractSubstring.js
+3. Find the Index of a word in a string. Inside findIndex.js
+4. Find the length of a word or string. Inside getLength.js
+5. How to replace words in JS. Inside replace.js.
 
 ### List of Methods in String Modifications
 
--
+- startsWith()
+  Can find out whether a string starts with the specified characters.
 
--
+- substring()
+  is for extracting part of the substring
 
--
+- replace()
+  is to replace searches a string for value or expression, then returns it with new values replaced.
 
--
+- length()
+  provides the length of the value it is referencing.
+
+- indexOf()
+  provides the index of when that word starts, very useful with substring.
 
 ## Attributions
 
@@ -52,4 +63,4 @@ They can be found in the string mods folder.
 
 - [W3Schools](https://www.w3schools.com)
 
-Thank you to my classmate Chaital, and Ethan Dam for helping me on thought for some.
+Thank you to my classmates Chaital and Ethan Dam for helping me on thought for some.

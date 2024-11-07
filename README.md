@@ -2,7 +2,7 @@
 
 ## I am Carolina, a student at SAIT
 
-I will pick 5 number and 5 string modifiers questions to do. Each will have their own js file with a name according to what it is.
+I will pick 5 number and 5 string modifiers questions to do, they were provided by my teacher. Each will have their own js file with a name according to what it is.
 
 ## Number Modifications
 
@@ -14,9 +14,35 @@ You can find it in number mods folder.
 4. Check if Integer. Inside numCheckIfInteger.js
 5. Check if Not a Number. Inside numCheckNaN.js
 
+### List of Methods in number modifications
+
+- Number.isInteger()
+  provided if the number inside is an integer.
+
+- isNaN()
+  Provided if the number is not a number
+
+- toString()
+  converted the data type to a string type.
+
+- toPrecision
+  precisely told how many digits were allowed
+
 ## String Modifications
 
+They can be found in the string mods folder.
+
 1.
+
+### List of Methods in String Modifications
+
+-
+
+-
+
+-
+
+-
 
 ## Attributions
 

@@ -4,6 +4,19 @@
 
 I will pick 5 number and 5 string modifiers questions to do, they were provided by my teacher. Each will have their own js file with a name according to what it is.
 
+Table of Content
+
+- [Links](#links)
+- [Number Modifications](#number-modifications)
+- [String Modifications](#string-modifications)
+- [Attributions](#attributions)
+
+### Links
+
+[Current Repo](https://github.com/Felisong/before-and-after-assignment)
+
+Interested in my github? [my Github Profile](https://github.com/Felisong/before-and-after-assignment)
+
 ## Number Modifications
 
 You can find it in number mods folder.

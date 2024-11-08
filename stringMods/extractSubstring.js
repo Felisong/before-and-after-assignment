@@ -1,6 +1,6 @@
 // .substring() is for extracting part of the substring
 
-let str = "Oh to be the house cat sleeping...";
+let str = "Oh, to be the house cat sleeping...";
 
 console.log(`Before: ${str}`);
 

@@ -30,7 +30,7 @@ You can find it in number mods folder.
 ### List of Methods in number modifications
 
 - Number.isInteger()
-  provides True or False if the number inside is an integer.
+  provides True or False (boolean value) if the number inside is an integer.
 
 - isNaN()
   Provided true or false if the number is not a number
@@ -38,8 +38,8 @@ You can find it in number mods folder.
 - toString()
   converted the data type to a string type.
 
-- toPrecision
-  precisely told how many digits were allowed
+- toPrecision()
+  precisely told how many digits were allowed.
 
 ## String Modifications
 
